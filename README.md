@@ -37,7 +37,7 @@ Basic-Calculator/
 └── README.md
 ⚙️ How to Run
 1️⃣ Clone the repository
-git clone https://github.com/your-username/CodeAlpha_Basic-Calculator-Program.git
+git clone [https://github.com/your-username/CodeAlpha_Basic-Calculator-Program.git](https://github.com/lalith1926/CodeAlpha_Basic-Calculator-Program)
 2️⃣ Navigate to the folder
 cd CodeAlpha_Basic-Calculator-Program
 3️⃣ Run the program
